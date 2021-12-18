@@ -1,4 +1,3 @@
-# Serge-Tassiga-Week7-Resubmission
 
 # Serge-Tassiga-MidTerm-Summative
 Author: Serge Anan Tassiga
