@@ -2,8 +2,7 @@
 # Serge-Tassiga-MidTerm-Summative
 Author: Serge Anan Tassiga
 =========
-Mid Summative ISP
-=============
+
 
 Question1: File Handling Program
 ========
